@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "kui-realtime",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "26101",
+			"database_id": "c6ac79c1-f798-423e-b8cb-763c94ba79dc"
+		}
+	]
+}
